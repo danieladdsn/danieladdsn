@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=ABABABFF&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5Bdanieladdsn%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;danieladdsn%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=ABABABFF&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+4567+...;connect+to+%5Bdanieladdsn%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;danieladdsn%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)
 
 <img align='right' src="https://raw.githubusercontent.com/sylnsfar/qrcode/master/example/daftpunktocat-guy_qrcode.gif" width="230">
 
@@ -23,17 +23,17 @@ Experienced Software Engineer with a demonstrated history of working in the comp
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "Objective-C"],
-    askMeAbout: ["web dev", "tech", "app dev", "typography"],
+    askMeAbout: ["Web Dev", "Tech", "App Dev", "Music"],
     technologies: {
         backEnd: {
             js: ["Node", "Hadoop", "Express"],
         },
         mobileApp: {
-            native: ["ios Development", "React Native"]
+            native: ["Ios Development", "React Native"]
         },
         devOps: ["AWS", "Terraform", "Docker🐳", "Kubernetes"],
-        databases: ["mongo", "MySql", "NoSQL"],
-        misc: ["Firebase", "ServiceNow", "Linux", "Arduino", "Git", "php"]
+        databases: ["Mongo", "MySql", "NoSQL"],
+        misc: ["Firebase", "ServiceNow", "Linux", "Arduino", "Git", "PHP"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
