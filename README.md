@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=ABABABFF&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+4567+...;connect+to+%5Bdanieladdsn%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;danieladdsn%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](https://git.io/typing-svg)
-
-<p> Hi <img src="https://slackmojis.com/emojis/41060-mug_waving/download" width="30"/>, I'm Daniel Addison!</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=ABABABFF&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5Bdanieladdsn%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;danieladdsn%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)
 
 <img align='right' src="https://raw.githubusercontent.com/sylnsfar/qrcode/master/example/daftpunktocat-guy_qrcode.gif" width="230">
+
+<p> Hi <img src="https://slackmojis.com/emojis/41060-mug_waving/download" width="30"/>, I'm Daniel Addison!</p>
 
 <p align='left'><em>Cloud Engineer at <a href="https://www.missioncloud.com/">Mission
 </a>
@@ -12,7 +12,6 @@
 <a align='left' href="https://www.linkedin.com/in/danieladdsn/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a align='left' href="medium.com/@danieladdsn"><img src="https://img.shields.io/badge/medium-%231DA1A2.svg?&style=for-the-badge&logo=medium&logoColor=black"/></a>
 <a align='left' href="https://danieladdsn.com"><img src ="https://img.shields.io/badge/danieladdsn.com-%23316192.svg?&style=for-the-badge&logo=&logoColor=white"/></a>
-
 
 <p align="left">
 Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in AWS Cloud Services, React, React Native, JavaScript, NodeJS, Python, and Java. Strong engineering professional graduated from Marist College. 
@@ -39,3 +38,5 @@ const anmol = {
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
     funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
