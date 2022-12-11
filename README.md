@@ -1,8 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=ABABABFF&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+4567+...;connect+to+%5Bdanieladdsn%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;danieladdsn%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=ABABABFF&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5Bdanieladdsn%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;danieladdsn%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)
 
 <img align='right' src="https://raw.githubusercontent.com/sylnsfar/qrcode/master/example/daftpunktocat-guy_qrcode.gif" width="230">
 
-<p> Hi <img src="https://slackmojis.com/emojis/41060-mug_waving/download" width="30"/>, I'm Daniel Addison!</p>
+<p> Hi <img src="https://slackmojis.com/emojis/41060-mug_waving/download" width="20.5"/>, I'm Daniel Addison!</p>
 
 <p align='left'><em>Cloud Engineer at <a href="https://www.missioncloud.com/">Mission
 </a>
@@ -17,7 +17,7 @@
 Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in AWS Cloud Services, React, React Native, JavaScript, NodeJS, Python, and Java. Strong engineering professional graduated from Marist College. 
 </p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...
 
 ```javascript
 const anmol = {
