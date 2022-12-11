@@ -1,4 +1,4 @@
-<h1 align='center' href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F7F7F&center=true&vCenter=true&width=435&lines=Namaste%2B%F0%9F%99%8F%F0%9F%8F%BF" alt="Typing SVG" /></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=ABABABFF&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+4567+...;connect+to+%5Bdanieladdsn%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;danieladdsn%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](https://git.io/typing-svg)
 
 <p> Hi <img src="https://slackmojis.com/emojis/41060-mug_waving/download" width="30"/>, I'm Daniel Addison!</p>
 
@@ -10,6 +10,7 @@
 
 <a align='left' href="https://twitter.com/codeda9"><img src="https://img.shields.io/badge/codeda9%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a align='left' href="https://www.linkedin.com/in/danieladdsn/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a align='left' href="medium.com/@danieladdsn"><img src="https://img.shields.io/badge/medium-%231DA1A2.svg?&style=for-the-badge&logo=medium&logoColor=black"/></a>
 <a align='left' href="https://danieladdsn.com"><img src ="https://img.shields.io/badge/danieladdsn.com-%23316192.svg?&style=for-the-badge&logo=&logoColor=white"/></a>
 
 
@@ -38,5 +39,3 @@ const anmol = {
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
     funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
