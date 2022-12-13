@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=ABABABFF&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5Bdanieladdsn%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;danieladdsn%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)
 
-<img align='right' src="https://user-images.githubusercontent.com/31493110/207221218-8f180314-1efc-474f-aa58-2cd908d01e80.png" width="235 ">
+<img align='right' src="https://user-images.githubusercontent.com/31493110/207221218-8f180314-1efc-474f-aa58-2cd908d01e80.png" width="230">
 
 <p> Hi <img src="https://slackmojis.com/emojis/41060-mug_waving/download" width="20.5"/>, I'm Daniel Addison!</p>
 
