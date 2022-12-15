@@ -22,11 +22,14 @@ Experienced Software Engineer with a demonstrated history of working in the comp
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "Objective-C"],
+    code: ["Javascript", "Python", "Java", "C#"],
     askMeAbout: ["Web Dev", "Tech", "App Dev", "Music"],
     technologies: {
+        frontEnd: {
+            web: ["HTML", "CSS", "React"],
+        }
         backEnd: {
-            js: ["Node", "Hadoop", "Express"],
+            js: ["Node","Express"],
         },
         mobileApp: {
             native: ["Ios Development", "React Native"]
