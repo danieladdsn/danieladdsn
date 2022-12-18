@@ -27,7 +27,7 @@ const anmol = {
     technologies: {
         frontEnd: {
             web: ["HTML", "CSS", "React"],
-        }
+        },
         backEnd: {
             js: ["Node","Express"],
         },
