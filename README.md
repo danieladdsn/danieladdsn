@@ -4,18 +4,17 @@
 class DanielAddison:
     def __init__(self):
         self.name = "Daniel Addison"
-        self.role = "Cloud Operation Engineer"
-        self.workplace = "Mission Cloud Services"
+        self.role = "Cloud Engineer"
+        self.workplace = "Yum! Brands"
         self.base = "Los Angeles, CA"
-        self.description = """I'm a graduate in Computer Science from Marist College.
-I'm a passionate learner who's always willing to work across technologies and domains.
-I love to explore new technologies and leverage them to solve real-life problems.
-Currently, I'm working on improving my knowledge of Data Structures and Algorithms."""
+        self.description = """I'm a graduate in Information Technology and Systems from Marist College, with a diverse background in software engineering, cloud infrastructure, and DevOps.
+        I'm a passionate learner who enjoys exploring new technologies and applying them to solve real-world challenges. My current focus is on enhancing my expertise in cloud technologies, machine learning, and data structures, while continuing to contribute to impactful projects. 
+        I thrive on continuous learning and enjoy collaborating with others in programming communities to grow both personally and professionally."""
 
         self.languages = ['Python', 'Java', 'JavaScript', 'Bash']
-        self.databases = ['MySQL', 'MongoDB', 'PostgreSQL']
-        self.misc = ['AWS', 'Docker', 'Kubernetes', 'Terraform']
-        self.ongoing = ['Full Stack Development']
+        self.databases = ['MySQL', 'MongoDB', 'PostgreSQL', 'Firebase', 'Supabase']
+        self.misc = ['AWS', 'Docker', 'Kubernetes', 'Terraform', 'CI/CD', 'Jenkins', 'CloudFormation']
+        self.ongoing = ['Full Stack Development', 'Machine Learning', 'Cloud Technologies', 'DevOps Practices']
 
         self.twitter = 'danL'
         self.linkedin = 'danieladdsn'
