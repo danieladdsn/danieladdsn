@@ -9,7 +9,7 @@ class DanielAddison:
         self.base = "Los Angeles, CA"
         self.description = """Welcome! I'm an IT and Cloud Operations professional based in 
         Los Angeles. I specialize in cloud infrastructure, system automation, and operational 
-        health—keeping major digital systems running seamlessly behind the scenes. Whether I'm 
+        health, keeping major digital systems running seamlessly behind the scenes. Whether I'm 
         managing bare metal lifecycles, optimizing platforms for high availability, or building 
         developer tools, my goal is to deliver reliable, scalable tech experiences that support 
         people and businesses every day."""
@@ -22,8 +22,8 @@ class DanielAddison:
             'CI/CD Pipelines', 'Grafana Monitoring', 'Linux Administration'
         ]
         self.ongoing = [
-            'AWS Solutions Architect - Associate',
-            'AI-Driven Workflows (Cursor, Claude Code)',
+            'AWS Solutions Architect Associate',
+            'AI Driven Workflows (Cursor, Claude Code)',
             'Cloud Gaming Infrastructure & Bare Metal Operations'
         ]
 
